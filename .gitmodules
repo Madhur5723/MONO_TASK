@@ -1,0 +1,3 @@
+[submodule "Slave1"]
+	path = Slave1
+	url = https://github.com/Madhur5723/Slave1.git
